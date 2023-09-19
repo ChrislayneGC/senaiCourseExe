@@ -1,0 +1,5 @@
+Link para instalar o SSM: 
+https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+Link para instalar o SQL:
+https://www.microsoft.com/pt-br/sql-server/sql-server-download
